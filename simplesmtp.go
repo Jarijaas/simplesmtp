@@ -6,7 +6,7 @@ import (
 	"time"
 	"flag"
 	"strings"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/davecgh/go-spew/spew"
 	"os"
 	"math/rand"
